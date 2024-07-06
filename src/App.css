@@ -1,0 +1,33 @@
+/* Style for the section containing the profiles */
+section {
+  text-align: center; /* Center align the contents */
+  padding: 20px; /* Add padding around the section */
+  background-color: #1c1654; /* Light grey background for the section */
+
+}
+h1 {
+  color:#ffffff;
+}
+/* Style for the paragraph element */
+section p {
+  width: 80%; /* Set the desired width for the paragraph */
+  margin: 0 auto; /* Center the paragraph by setting the left and right margins to auto */
+  text-align: justify; /* Align the text on both the left and right edges */
+  padding: 10px; /* Add some padding for better readability */
+   /* Optional: Add a white background to the paragraph */
+  border-radius: 5px; /* Optional: Add slightly rounded corners */
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow for a raised effect */
+  color: #ffffff;
+  font-size: 36px;
+}
+
+/* Style for the img elements within the Profile component */
+section img {
+  width: 400px; /* Set a fixed width for the images */
+  height: 400px; /* Maintain aspect ratio */
+  margin: 10px; /* Add margin around each image */
+  border: 2px solid #ddd; /* Add a light border */
+  border-radius: 10px; /* Slightly rounded corners */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for a raised effect */
+}
+
